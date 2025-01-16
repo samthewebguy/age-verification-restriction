@@ -13,6 +13,7 @@ body{
 .main-section{
     width: 100%;
     height: 100vh;
+    padding: 0 2%;
     background-image: url(Images/pexels-wolfgang-1002140-2747446.jpg) ;
     background-position: center;
     background-size: cover;
@@ -82,5 +83,9 @@ body{
   @media (max-width: 800px){
     #company-name{
         font-size: 2.5em;
+    }
+
+    .main-section{
+        padding: 0 2%;
     }
   }
