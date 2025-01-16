@@ -80,12 +80,12 @@ body{
   }
 
 
-  @media (max-width: 800px){
+  @media (max-width: 480px){
     #company-name{
         font-size: 2.5em;
     }
 
     .main-section{
-        padding: 0 2%;
+        padding: 0px 5%;
     }
   }
