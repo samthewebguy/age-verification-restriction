@@ -77,3 +77,10 @@ body{
 .hidden {
     display: none;
   }
+
+
+  @media (max-width: 800px){
+    #company-name{
+        font-size: 2.5em;
+    }
+  }
